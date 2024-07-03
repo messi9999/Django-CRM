@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'inpodsazurecopilotapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_810D709EC2274572B675740AB481AEBD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86C8A464E45B4739AB1597FA587788E0 }}
